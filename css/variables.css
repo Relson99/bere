@@ -1,0 +1,41 @@
+:root {
+    /* ==============================
+       COLORES
+       ============================== */
+    --color-background: #080b18;
+    --color-background-secondary: #11162a;
+
+    --color-primary: #f48fb1;
+    --color-primary-light: #f8bbd0;
+
+    --color-secondary: #b39ddb;
+
+    --color-text: #ffffff;
+    --color-text-secondary: #c7c9d6;
+
+    /* ==============================
+       TIPOGRAFÍAS
+       ============================== */
+    --font-title: 'Cormorant Garamond', serif;
+    --font-body: 'Poppins', sans-serif;
+    /* ==============================
+       ESPACIADOS
+      ============================== */
+    --spacing-xs: 0.5rem;
+    --spacing-sm: 1rem;
+    --spacing-md: 1.5rem;
+    --spacing-lg: 2rem;
+    --spacing-xl: 3rem;
+    /* ==============================
+       BORDES
+      ============================== */
+    --radius-sm: 8px;
+    --radius-md: 16px;
+    --radius-lg: 30px;
+    /* ==============================
+       TRANSICIONES
+       ============================== */
+    --transition-fast: 0.2s ease;
+    --transition-normal: 0.4s ease;
+    --transition-slow: 0.8s ease;
+}
